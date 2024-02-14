@@ -1,1 +1,1 @@
-# My web ste with gitHub pages jekyll
+# My web site with gitHub pages jekyll
